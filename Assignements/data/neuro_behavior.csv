@@ -1,0 +1,5 @@
+participant_id,condition,trial_count,mean_rt_ms
+sub-09,faces,120,510
+sub-10,houses,115,545
+sub-11,faces,128,498
+sub-12,houses,118,552
