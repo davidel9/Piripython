@@ -1,0 +1,41 @@
+subject,group,age,sex,handedness,sleep_hours,caffeine_mg,bdi_score,stai_state,notes
+S01,mci,38,M,right,6.3,159,12,31,elevated memory complaints
+S02,control,20,F,right,7.9,0,11,41,healthy volunteer
+S03,mci,33,F,right,6.2,117,8,51,elevated memory complaints
+S04,control,22,F,right,8.0,69,2,21,healthy volunteer
+S05,control,24,F,right,7.5,47,11,30,healthy volunteer
+S06,mci,28,F,right,6.9,67,9,41,elevated memory complaints
+S07,control,26,M,right,7.1,100,1,27,healthy volunteer
+S08,control,26,F,right,6.4,175,4,39,healthy volunteer
+S09,mci,24,M,right,7.5,40,11,50,elevated memory complaints
+S10,mci,34,M,right,6.6,122,17,46,elevated memory complaints
+S11,mci,30,M,right,5.9,91,0,46,elevated memory complaints
+S12,mci,24,M,right,5.8,100,9,43,elevated memory complaints
+S13,mci,26,F,right,7.3,180,11,58,elevated memory complaints
+S14,mci,33,M,right,8.7,152,11,37,elevated memory complaints
+S15,control,21,F,right,7.3,200,4,32,healthy volunteer
+S16,mci,41,F,right,7.0,111,1,52,elevated memory complaints
+S17,mci,45,M,right,7.4,78,12,35,elevated memory complaints
+S18,mci,33,F,right,8.4,107,19,40,elevated memory complaints
+S19,mci,26,F,right,7.3,135,2,49,elevated memory complaints
+S20,control,23,F,right,6.7,131,6,30,healthy volunteer
+S21,mci,32,M,right,8.2,55,8,29,elevated memory complaints
+S22,control,21,F,right,7.5,125,6,40,healthy volunteer
+S23,mci,29,F,right,8.6,134,5,33,elevated memory complaints
+S24,control,21,F,right,7.3,271,5,26,healthy volunteer
+S25,mci,30,M,right,5.9,233,17,43,elevated memory complaints
+S26,mci,36,F,right,5.7,69,13,41,elevated memory complaints
+S27,control,18,F,right,8.8,103,5,39,healthy volunteer
+S28,control,26,F,right,8.8,32,3,32,healthy volunteer
+S29,control,25,M,right,6.9,85,6,35,healthy volunteer
+S30,control,22,M,right,6.7,139,5,27,healthy volunteer
+S31,control,19,M,right,8.6,192,11,35,healthy volunteer
+S32,mci,31,F,right,6.0,76,14,45,elevated memory complaints
+S33,control,22,F,right,6.2,81,6,31,healthy volunteer
+S34,control,25,M,right,7.7,0,3,31,healthy volunteer
+S35,mci,36,M,right,6.7,110,7,41,elevated memory complaints
+S36,control,30,M,right,7.1,56,9,25,healthy volunteer
+S37,mci,25,F,right,6.9,88,4,33,elevated memory complaints
+S38,control,20,F,right,7.4,67,6,29,healthy volunteer
+S39,control,25,M,right,8.5,114,0,32,healthy volunteer
+S40,control,25,M,right,7.2,15,8,36,healthy volunteer
